@@ -1,0 +1,70 @@
+body {
+    font-size: 13.4469px;
+}
+
+#submenu1 {
+    border-bottom: 2px solid #28294c;
+    height: initial;
+    overflow: hidden;
+    overflow-y: auto;
+    transition: all 0.3s;
+    max-width: 1280px;
+    width: 100%;
+    margin: auto;
+}
+
+.btnGroup {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.noticeBtn {
+    z-index: 999;
+    padding: 0.5em 0;
+    margin: 0.15em 0 0 -0.1em;
+    text-align: center;
+    max-width: 1280px;
+    width: 100%;
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing: 5px;
+    color: #8a1e61;
+}
+
+.btnGroup a {
+    width: 100%;
+}
+
+.noticeBtn img {
+    z-index: 99999;
+}
+
+.btn:hover {
+    color: #8a1e61;
+    text-decoration: none;
+}
+
+.btn.focus,
+.btn:focus {
+    outline: 0;
+    -webkit-box-shadow: 10px 9px 0px -6px rgba(0, 0, 0, 0);
+    -moz-box-shadow: 10px 9px 0px -6px rgba(0, 0, 0, 0);
+    box-shadow: 10px 9px 0px -6px rgba(0, 0, 0, 0);
+}
+
+@media (max-width: 768px) {
+    .btnGroup {
+        flex-flow: column;
+    }
+
+    .noticeBtn::after {
+        margin-left: -12vh;
+    }
+
+    .noticeBtn::before {
+        margin-left: 7.899vh;
+    }
+}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_圖層_1" data-name="圖層_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1448 26.55">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#_未命名漸層_856);
+      }
+
+      .st1 {
+        fill: url(#_未命名漸層_879);
+        opacity: .84;
+      }
+
+      .st2 {
+        fill: none;
+      }
+
+      .st3 {
+        fill: url(#_未命名漸層_8561);
+        opacity: .37;
+      }
+
+      .st4 {
+        fill: url(#_未命名漸層_8562);
+        opacity: .29;
+      }
+
+      .st5 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st2" width="1446.17" height="26.55"/>
+    </clipPath>
+    <linearGradient id="_未命名漸層_856" data-name="未命名漸層 856" x1="0" y1="63.2" x2="1448" y2="63.2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e0e0e1"/>
+      <stop offset="0" stop-color="#e5e5e6"/>
+      <stop offset=".04" stop-color="#f3f3f4"/>
+      <stop offset=".08" stop-color="#fcfcfc"/>
+      <stop offset=".14" stop-color="#fff"/>
+      <stop offset=".89" stop-color="#fff"/>
+      <stop offset=".93" stop-color="#f9f9f9"/>
+      <stop offset=".98" stop-color="#e9e9ea"/>
+      <stop offset="1" stop-color="#e0e0e1"/>
+    </linearGradient>
+    <linearGradient id="_未命名漸層_8561" data-name="未命名漸層 856" x1="62.83" x2="1385.17" xlink:href="#_未命名漸層_856"/>
+    <linearGradient id="_未命名漸層_8562" data-name="未命名漸層 856" x1="132.83" x2="1315.17" xlink:href="#_未命名漸層_856"/>
+    <linearGradient id="_未命名漸層_879" data-name="未命名漸層 879" x1="4264.95" y1="-8081.59" x2="4402.31" y2="-8081.59" gradientTransform="translate(-3598.96 8144.82)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e0e0e1"/>
+      <stop offset=".03" stop-color="#e7e7e8" stop-opacity=".77"/>
+      <stop offset=".07" stop-color="#efeff0" stop-opacity=".5"/>
+      <stop offset=".1" stop-color="#f6f6f6" stop-opacity=".28"/>
+      <stop offset=".14" stop-color="#fbfbfb" stop-opacity=".13"/>
+      <stop offset=".16" stop-color="#fdfdfd" stop-opacity=".03"/>
+      <stop offset=".18" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".85" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".86" stop-color="#fdfdfd" stop-opacity=".05"/>
+      <stop offset=".89" stop-color="#f9f9f9" stop-opacity=".19"/>
+      <stop offset=".92" stop-color="#f2f2f2" stop-opacity=".42"/>
+      <stop offset=".97" stop-color="#e8e8e9" stop-opacity=".73"/>
+      <stop offset="1" stop-color="#e0e0e1"/>
+    </linearGradient>
+  </defs>
+  <g class="st5">
+    <rect class="st0" y="-5.45" width="1448" height="137.3"/>
+    <rect class="st3" x="62.83" y="-5.45" width="1322.33" height="137.3"/>
+    <rect class="st4" x="132.83" y="-5.45" width="1182.33" height="137.3"/>
+    <rect class="st1" x="665.99" y="-648.27" width="137.36" height="1423" transform="translate(797.9 -671.43) rotate(90)"/>
+  </g>
+</svg>
