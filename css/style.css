@@ -1191,7 +1191,7 @@ input[type=submit] {
         max-width: initial;
         margin: auto;
         padding: 10px 15px;
-        transform: translateY(-50%);
+        transform: none;
     }
     #blockA .cube #out_top{
         top: -50px;
