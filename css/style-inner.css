@@ -1338,16 +1338,16 @@ a.under{
         min-height: 560px;
     }
     #blockA .cube{
-        position: relative;
+        position: absolute;
         top: 56%;
-        left: initial;
-        right: initial;
+        left: 0;
+        right: 0;
         width: 80%;
         min-width: initial;
         max-width: initial;
         margin: auto;
         padding: 10px 15px;
-        transform: none;
+        transform: translateY(-50%);
     }
     #blockA .cube #out_top{
         top: -50px;
